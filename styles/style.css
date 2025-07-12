@@ -24,10 +24,6 @@
   font-variation-settings: "wght" 400;
   min-inline-size: 320px;
   min-block-size: 100dvb;
-	/*Насчет проблемы с горизонтальным скроллом,
-	я попытался воспроизвести эту проблему как на windows, так и на mac,
-	на каждом устройстве во всех браузерах(safari, firefox, chrome, yandex),
-	но нигде горизонтальный скролл у меня так и не вылез*/
 }
 
 .header {
